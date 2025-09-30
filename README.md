@@ -89,8 +89,13 @@
 
 ### Перейдите в папку проекта, убедитесь, что image1.* и image2.* лежат рядом со скриптом, и выполните:
 
-Windows (PowerShell): python .\compare_images.py
-Linux / macOS: python3 ./compare_images.py
+Windows (PowerShell): 
+
+python .\compare_images.py
+
+Linux / macOS: 
+
+python3 ./compare_images.py
 
 Скрипт:
 
